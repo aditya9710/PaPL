@@ -1,0 +1,2 @@
+# PaPL
+Paper-Based Programming Language (PaPL) is a form of tangible programming platform that leverages the ubiquity of paper in classrooms. This project focusses on the application in programming educational robots including Thymio and the DIY CreroBot. The platform makes use of standard cameras of tablets for easy adoption in today's classrooms and promotes group collaboration. The open-source framework also allows developers to create paper-based versions of existing programming languages.
