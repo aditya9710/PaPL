@@ -1,5 +1,5 @@
 Author: [Aditya Mehrotra](https://www.linkedin.com/in/mehrotraaditya/)  
-Collaborators: [Noé Duruz](https://people.epfl.ch/noe.duruz?lang=en), [Julien Guillaume Dedelley](https://people.epfl.ch/julien.dedelley)  
+Collaborators: [Noé Duruz](https://people.epfl.ch/noe.duruz?lang=en), [Julien Guillaume Dedelley](https://people.epfl.ch/julien.dedelley), [Anthony Guinchard](https://github.com/Antho1426)  
 Institution: École polytechnique fédérale de Lausanne  
 
 <br/>
@@ -12,7 +12,7 @@ Paper-based Programming Language (PaPL) is a form of tangible programming platfo
 <br/>
 
 The Android application version is available on [github.com/Antho1426/papl-app](url) for use with the CreroBot.  
-This repository contains the desktop version of the application. To use the application with Thymio, the user will have to install the [Thymio Suite](https://www.thymio.org/program/) software. Similarly, install [ScratchJr](https://jfo8000.github.io/ScratchJr-Desktop/) software to use its module in the application. The instructional Jupyter Notedbook authored by Noé and Julien has also been added to this repository.
+This repository contains the desktop version of the application. To use the application with Thymio, the user will have to install the [Thymio Suite](https://www.thymio.org/program/) software. Similarly, install [ScratchJr](https://jfo8000.github.io/ScratchJr-Desktop/) software to use its module in the application. The instructional Jupyter Notedbook for the desktop application authored by Noé and Julien has also been added to this repository.
 
 
 
