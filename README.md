@@ -5,5 +5,7 @@ The Android application version is available on github.com/Antho1426/papl-app fo
 This repository contains the desktop version of the application. To use the application with Thymio, the user will have to install the Thymio Suite software ([https://www.thymio.org/program/](url)). Similarly for ScratchJr, the software can be found at ([https://jfo8000.github.io/ScratchJr-Desktop/](url)).
 
 Publications linked to the project are as follows:
+
 • Accessible Maker-based Approaches to Educational Robotics in Distance Learning; IEEE Access Journal, 2021 ([doi.org/10.1109/ACCESS.2021.3094158](url))
+
 • Introducing a Paper-BasedProgramming Language for Computing Education in Classrooms; ACM Innovation and Technology in Computer Science Education (ITiCSE), 2020 ([dl.acm.org/doi/pdf/10.1145/3341525.3387402](url))
