@@ -1,4 +1,4 @@
-Author: Aditya Mehrotra  
+Author: [Aditya Mehrotra](https://www.linkedin.com/in/mehrotraaditya/)  
 Institution: École polytechnique fédérale de Lausanne  
 Collaborators: [Noé Duruz](https://people.epfl.ch/noe.duruz?lang=en), [Julien Guillaume Dedelley](https://people.epfl.ch/julien.dedelley)
 
