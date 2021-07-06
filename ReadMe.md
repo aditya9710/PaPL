@@ -13,12 +13,12 @@ Paper-based Programming Language (PaPL) is a form of tangible programming platfo
 
 <br/>
 
-The Android application version is available on [github.com/Antho1426/papl-app](url) for use with the CreroBot.  
+The Android application version is available on [https://github.com/Antho1426/papl-app](url) for use with the CreroBot.  
 This repository contains the desktop version of the application. To use the application with Thymio, the user will have to install the [Thymio Suite](https://www.thymio.org/program/) software. Similarly, install [ScratchJr](https://jfo8000.github.io/ScratchJr-Desktop/) software to use its module in the application. The instructional Jupyter Notedbook for the desktop application authored by Noé and Julien has also been added to this repository.
 
 
 
 Publications linked to the project are as follows:   
-• Accessible Maker-based Approaches to Educational Robotics in Distance Learning; IEEE Access Journal, 2021 ([doi.org/10.1109/ACCESS.2021.3094158](url)).  
-• Introducing a Paper-BasedProgramming Language for Computing Education in Classrooms; ACM Innovation and Technology in Computer Science Education (ITiCSE), 2020 ([dl.acm.org/doi/pdf/10.1145/3341525.3387402](url)).   
-• A Tangible Programming Language for the Educational Robot Thymio; International Conference on Information, Intelligence, Systems and Applications (IISA), 2019 ([doi.org/10.1109/IISA.2019.8900743](url))
+• Accessible Maker-based Approaches to Educational Robotics in Distance Learning; IEEE Access Journal, 2021 ([https://doi.org/10.1109/ACCESS.2021.3094158](url)).  
+• Introducing a Paper-BasedProgramming Language for Computing Education in Classrooms; ACM Innovation and Technology in Computer Science Education (ITiCSE), 2020 ([https://doi.org/10.1145/3341525.3387402](url)).   
+• A Tangible Programming Language for the Educational Robot Thymio; International Conference on Information, Intelligence, Systems and Applications (IISA), 2019 ([https://doi.org/10.1109/IISA.2019.8900743](url))
