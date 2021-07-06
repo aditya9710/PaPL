@@ -21,4 +21,4 @@ This repository contains the desktop version of the application. To use the appl
 Publications linked to the project are as follows:   
 • Accessible Maker-based Approaches to Educational Robotics in Distance Learning; IEEE Access Journal, 2021 ([doi.org/10.1109/ACCESS.2021.3094158](url)).  
 • Introducing a Paper-BasedProgramming Language for Computing Education in Classrooms; ACM Innovation and Technology in Computer Science Education (ITiCSE), 2020 ([dl.acm.org/doi/pdf/10.1145/3341525.3387402](url)). 
-
+• A Tangible Programming Language for the Educational Robot Thymio; International Conference on Information, Intelligence, Systems and Applications (IISA), 2019 [doi.org/10.1109/IISA.2019.8900743](url)
